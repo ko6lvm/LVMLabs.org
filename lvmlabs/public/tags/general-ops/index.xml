@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LVMLabs – General Ops</title>
+    <link>http://localhost:1313/tags/general-ops/</link>
+    <description>Recent content in General Ops on LVMLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/general-ops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>LVMLabs Formed</title>
+      <link>http://localhost:1313/blog/lvmlabs_formed/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/lvmlabs_formed/</guid>
+      <description>
+        
+        
+        &lt;p&gt;After months of general operation without a specific name or website, LVMLabs is finally official and formed!&lt;/p&gt;
+&lt;p&gt;(For those who don&amp;rsquo;t know, it was coordinated and done through real life w/ friends or through chats)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;LVMLabs&amp;rdquo;, pronounced &amp;ldquo;L V M Labs&amp;rdquo; or &amp;ldquo;Lima-Victor-Mike Labs&amp;rdquo;, got its name from the founder Ryan (or me). It carries the suffix of my US FCC amateur radio callsign, and then has &amp;ldquo;Labs&amp;rdquo; to signify we do quite a lot of things here, just like a real lab.&lt;/p&gt;
+&lt;p&gt;Some cool new changes:&lt;/p&gt;
+&lt;h2&gt;Changes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Website&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;website&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#website&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;After a few hours of tinkering around with HTML, I called it quits and decided to use Hugo w/ Hextra. It&amp;rsquo;s a cool static site generator with a bunch of themes, and I decided Hextra looked good. Right now, it&amp;rsquo;s a bit empty, considering we don&amp;rsquo;t have any official media or content nor official blog posts / documentation. As time progresses and we collect more documentation professionally logged (if this is considered professional), it will come up here.&lt;/p&gt;
+&lt;h3&gt;Design &amp;amp; Assets&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;design--assets&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#design--assets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For now, our logo. Our logo is just a basic bold &amp;ldquo;LVM&amp;rdquo; and a regular &amp;ldquo;Labs&amp;rdquo;. It&amp;rsquo;s availble in both italics and non italic. Nothing really special to see, but oh well. Logo&amp;rsquo;s a logo. We also have multiple sized favicons, in PNGs, ICOs, and SVGs, so it works for everyone. (looking at you iPhone users!)&lt;/p&gt;
+&lt;h2&gt;So&amp;hellip; what will we do now?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;so-what-will-we-do-now&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#so-what-will-we-do-now&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Not much will change. Our previous projects and efforts (listed on the homepage for new people) will still continue, just in a more &lt;em&gt;professional&lt;/em&gt; and &lt;em&gt;organized&lt;/em&gt; (yay, long and cool words, very &lt;em&gt;professional&lt;/em&gt;) way.&lt;/p&gt;
+&lt;h2&gt;Goals for the Future&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;goals-for-the-future&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#goals-for-the-future&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Some goals include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dedicated domain (probably &lt;code&gt;lvmlabs.org&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Changing of all other existing works to have LVMLabs branding (branding? is that the word?)&lt;/li&gt;
+&lt;li&gt;501(c)(3) status with HCB (w/ The Hack Foundation, d.b.a. Hack Club)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;73!&lt;/p&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
