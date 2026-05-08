@@ -37,6 +37,9 @@ params:
       dark: images/logo-crop-white-italics.png
       link: /
       width: 125
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
 
 markup:
   goldmark:
