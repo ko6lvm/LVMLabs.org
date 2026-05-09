@@ -2,7 +2,7 @@
 title: "RPCRC v1"
 type: "docs"
 tags: ["Flight Sim"]
-draft: true
+draft: false
 ---
 
 {{< hextra/hero-subtitle >}}
