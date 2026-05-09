@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Hardware Projects"
 type: "blog"
 ---
 

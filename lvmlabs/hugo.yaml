@@ -14,15 +14,18 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: Projects
-      pageRef: /projects
+    - name: Hardware
+      pageRef: /hardware
       weight: 3
-    - name: Search
+    - name: Software
+      pageRef: /software
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/ko6lvm/LVMLabs.org"
       params:
         icon: github

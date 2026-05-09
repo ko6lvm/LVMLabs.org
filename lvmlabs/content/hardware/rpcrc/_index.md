@@ -21,6 +21,10 @@ Press-To-Talk (PTT) for VATSIM's Consolidated Radar Client.
 {{< icon "scale" >}} CC0 1.0 Universal
 {{< /hextra/hero-badge >}}
 
+{{< hextra/hero-badge >}}
+Hardware
+{{< /hextra/hero-badge >}}
+
 <div class="hx:mt-4"></div>
 
 {{< hextra/hero-button text="See the Build →" link="build" >}}

@@ -22,26 +22,38 @@
   </url><url>
     <loc>http://localhost:1313/tags/a320neo/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/a320rmp/</loc>
+    <loc>http://localhost:1313/hardware/a320rmp/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/a320rmp/buildlog/</loc>
+    <loc>http://localhost:1313/hardware/a320rmp/build/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/template/buildlog/</loc>
+    <loc>http://localhost:1313/hardware/rpcrc/build/</loc>
+  </url><url>
+    <loc>http://localhost:1313/template/build/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/flight-sim/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/a320rmp/journal/</loc>
+    <loc>http://localhost:1313/tags/flight-sim/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/template/journal/</loc>
+    <loc>http://localhost:1313/hardware/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/hardware/a320rmp/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hardware/rpcrc/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/template/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/ksf/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radios/</loc>
   </url><url>
+    <loc>http://localhost:1313/hardware/rpcrc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/template/</loc>
+    <loc>http://localhost:1313/template/</loc>
   </url>
 </urlset>

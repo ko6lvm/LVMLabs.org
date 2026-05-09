@@ -25,7 +25,7 @@ Student led nonprofit pushing the limits of various enginnering skills and techn
 
 <div class="hx:mt-8"></div>
 
-{{< hextra/hero-button text="See our Projects →" link="projects" >}}
+{{< hextra/hero-button text="See our Hardware Projects →" link="hardware" >}}
 
 <div class="hx:mt-8"></div>
 
