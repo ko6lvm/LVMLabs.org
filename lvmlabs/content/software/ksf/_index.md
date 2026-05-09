@@ -1,8 +1,8 @@
 ---
 title: "KSF Cybersecurity Initiative"
 type: "docs"
-tags: ["TAGS"]
-draft: true
+tags: ["KSF"]
+draft: false
 ---
 
 {{< hextra/hero-subtitle >}}
