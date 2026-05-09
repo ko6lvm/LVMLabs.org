@@ -35,4 +35,4 @@ Hardware
 {{< /callout >}}
 <div class="hx:mt-8"></div>
 
-<img src="cover.png" alt="Project Image" width=450>
+<img src="a320rmp.png" alt="Project Image" width=450>
