@@ -17,11 +17,11 @@ Cybersecurity tools and resources for students.
 {{< icon "github" >}} See on Github
 {{< /hextra/hero-badge >}}
 
-{{< hextra/hero-badge link="discord.killsecurly.com" >}}
+{{< hextra/hero-badge link="https://discord.killsecurly.com" >}}
 {{< icon "discord" >}} Discord
 {{< /hextra/hero-badge >}}
 
-{{< hextra/hero-badge link="killsecurly.com/tos" >}}
+{{< hextra/hero-badge link="https://killsecurly.com/tos" >}}
 {{< icon "scale" >}} Requires ToS
 {{< /hextra/hero-badge >}}
 

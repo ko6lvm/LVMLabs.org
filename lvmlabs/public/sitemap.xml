@@ -44,6 +44,8 @@
   </url><url>
     <loc>http://localhost:1313/template/journal/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/ksf/</loc>
+  </url><url>
     <loc>http://localhost:1313/software/ksf/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radios/</loc>

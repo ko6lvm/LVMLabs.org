@@ -52,6 +52,14 @@ See on Github
 CC0 1.0 Universal
 &lt;/a&gt;
 
+&lt;a
+  
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  &gt;
+  Hardware
+&lt;/a&gt;
+
 &lt;div class=&#34;hx:mt-4&#34;&gt;&lt;/div&gt;
 &lt;a
   href=&#34;buildlog&#34;
