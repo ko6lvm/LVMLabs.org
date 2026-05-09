@@ -20,6 +20,28 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/a320neo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/a320rmp/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/a320rmp/buildlog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/template/buildlog/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/flight-sim/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/a320rmp/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/template/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/radios/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/template/</loc>
   </url>
 </urlset>

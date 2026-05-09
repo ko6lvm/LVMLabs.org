@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LVMLabs – Template</title>
+    <link>http://localhost:1313/projects/template-copy/</link>
+    <description>Recent content in Template on LVMLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/projects/template-copy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Build Log</title>
+      <link>http://localhost:1313/projects/template-copy/buildlog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/template-copy/buildlog/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://localhost:1313/projects/template-copy/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/template-copy/journal/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Journal is an export and may have formatting issues. Time is in UTC.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

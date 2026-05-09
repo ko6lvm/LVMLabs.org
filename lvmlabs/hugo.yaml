@@ -14,13 +14,16 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: Search
+    - name: Projects
+      pageRef: /projects
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 4
-      url: "https://github.com/ko6lvm"
+      weight: 5
+      url: "https://github.com/ko6lvm/LVMLabs.org"
       params:
         icon: github
     - name: Theme Toggle
@@ -40,6 +43,7 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
+  enableInlineShortcodes: true
 
 markup:
   goldmark:
