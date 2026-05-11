@@ -1,0 +1,103 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LVMLabs – HAM</title>
+    <link>http://localhost:1313/tags/ham/</link>
+    <description>Recent content in HAM on LVMLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/tags/ham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Amateur Radio Band Conditions</title>
+      <link>http://localhost:1313/software/hamsolar/solar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/hamsolar/solar/</guid>
+      <description>
+        
+        
+        &lt;p&gt;{{ $url := &amp;ldquo;&lt;a href=&#34;https://www.hamqsl.com/solarxml.php%22&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hamqsl.com/solarxml.php&#34;&lt;/a&gt; }}
+{{ $res := resources.GetRemote $url }}&lt;/p&gt;
+&lt;p&gt;{{ if $res }}
+{{ $data := $res.Content | transform.Unmarshal }}
+{{ $solar := $data.solardata }}&lt;/p&gt;
+  &lt;div class=&#34;not-prose my-8&#34;&gt;
+    &lt;!-- Header &amp; Source --&gt;
+    &lt;div class=&#34;flex justify-between items-end mb-4&#34;&gt;
+      &lt;h3 class=&#34;text-xl font-bold&#34;&gt;Solar-Terrestrial Data&lt;/h3&gt;
+      &lt;span class=&#34;text-xs opacity-60&#34;&gt;Updated: {{ $solar.updated }}&lt;/span&gt;
+    &lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!-- Main Indices Grid --&amp;gt;
+&amp;lt;div class=&amp;quot;grid grid-cols-2 md:grid-cols-4 gap-4 mb-6&amp;quot;&amp;gt;
+  &amp;lt;div class=&amp;quot;p-4 border rounded-xl bg-slate-50/50 dark:bg-neutral-900/50&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;text-sm opacity-70&amp;quot;&amp;gt;SFI&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;text-2xl font-mono font-bold text-primary-600&amp;quot;&amp;gt;{{ $solar.solarflux }}&amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div class=&amp;quot;p-4 border rounded-xl bg-slate-50/50 dark:bg-neutral-900/50&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;text-sm opacity-70&amp;quot;&amp;gt;Sunspots&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;text-2xl font-mono font-bold&amp;quot;&amp;gt;{{ $solar.sunspots }}&amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div class=&amp;quot;p-4 border rounded-xl bg-slate-50/50 dark:bg-neutral-900/50&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;text-sm opacity-70&amp;quot;&amp;gt;A-Index&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;text-2xl font-mono font-bold&amp;quot;&amp;gt;{{ $solar.aindex }}&amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div class=&amp;quot;p-4 border rounded-xl bg-slate-50/50 dark:bg-neutral-900/50&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;text-sm opacity-70&amp;quot;&amp;gt;K-Index&amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;text-2xl font-mono font-bold&amp;quot;&amp;gt;{{ $solar.kindex }}&amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;grid md:grid-cols-2 gap-6&amp;quot;&amp;gt;
+  &amp;lt;!-- HF Band Conditions --&amp;gt;
+  &amp;lt;div class=&amp;quot;border rounded-xl overflow-hidden&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;bg-slate-100 dark:bg-neutral-800 px-4 py-2 font-semibold text-sm&amp;quot;&amp;gt;HF Conditions&amp;lt;/div&amp;gt;
+    &amp;lt;table class=&amp;quot;w-full text-sm&amp;quot;&amp;gt;
+      &amp;lt;tbody class=&amp;quot;divide-y&amp;quot;&amp;gt;
+        {{ range $solar.calculatedconditions.band }}
+        &amp;lt;tr&amp;gt;
+          &amp;lt;td class=&amp;quot;px-4 py-2 font-medium&amp;quot;&amp;gt;{{ .name }}&amp;lt;/td&amp;gt;
+          &amp;lt;td class=&amp;quot;px-4 py-2 uppercase text-right&amp;quot;&amp;gt;{{ .time }}&amp;lt;/td&amp;gt;
+          &amp;lt;td class=&amp;quot;px-4 py-2 text-right font-bold&amp;quot;&amp;gt;
+            &amp;lt;span class=&amp;quot;{{ if eq . &amp;quot;#text&amp;quot; &amp;quot;Good&amp;quot; }}text-emerald-500{{ else if eq . &amp;quot;#text&amp;quot; &amp;quot;Fair&amp;quot; }}text-amber-500{{ else }}text-red-500{{ end }}&amp;quot;&amp;gt;
+              {{ . &amp;quot;#text&amp;quot; }}
+            &amp;lt;/span&amp;gt;
+          &amp;lt;/td&amp;gt;
+        &amp;lt;/tr&amp;gt;
+        {{ end }}
+      &amp;lt;/tbody&amp;gt;
+    &amp;lt;/table&amp;gt;
+  &amp;lt;/div&amp;gt;
+
+  &amp;lt;!-- Atmospheric Status --&amp;gt;
+  &amp;lt;div class=&amp;quot;space-y-4&amp;quot;&amp;gt;
+    &amp;lt;div class=&amp;quot;p-4 border rounded-xl&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;text-xs uppercase tracking-wider opacity-60 mb-1&amp;quot;&amp;gt;Geomag Field&amp;lt;/div&amp;gt;
+      &amp;lt;div class=&amp;quot;font-bold&amp;quot;&amp;gt;{{ $solar.geomagfield }}&amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;p-4 border rounded-xl&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;text-xs uppercase tracking-wider opacity-60 mb-1&amp;quot;&amp;gt;Signal Noise&amp;lt;/div&amp;gt;
+      &amp;lt;div class=&amp;quot;font-bold&amp;quot;&amp;gt;{{ $solar.signalnoise }}&amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+    &amp;lt;div class=&amp;quot;p-4 border rounded-xl&amp;quot;&amp;gt;
+      &amp;lt;div class=&amp;quot;text-xs uppercase tracking-wider opacity-60 mb-1&amp;quot;&amp;gt;Solar Wind&amp;lt;/div&amp;gt;
+      &amp;lt;div class=&amp;quot;font-bold font-mono&amp;quot;&amp;gt;{{ $solar.solarwind }} &amp;lt;span class=&amp;quot;text-xs font-normal&amp;quot;&amp;gt;km/s&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+{{ else }}
+  &lt;p class=&#34;text-red-500&#34;&gt;Error: Could not fetch solar data.&lt;/p&gt;
+{{ end }}
+      </description>
+    </item>
+    
+  </channel>
+</rss>
