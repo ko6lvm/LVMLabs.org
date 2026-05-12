@@ -20,13 +20,13 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/software/hamsolar/</loc>
-  </url><url>
     <loc>http://localhost:1313/tags/a320neo/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/a320rmp/</loc>
   </url><url>
-    <loc>http://localhost:1313/software/hamsolar/solar/</loc>
+    <loc>http://localhost:1313/software/ban/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/bans/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/a320rmp/build/</loc>
   </url><url>
@@ -40,7 +40,7 @@
   </url><url>
     <loc>http://localhost:1313/tags/flight-sim/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ham/</loc>
+    <loc>http://localhost:1313/tags/general/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/</loc>
   </url><url>
@@ -54,7 +54,7 @@
   </url><url>
     <loc>http://localhost:1313/software/ksf/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/radio/</loc>
+    <loc>http://localhost:1313/software/ban/liuxium/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radios/</loc>
   </url><url>
