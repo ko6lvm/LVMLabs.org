@@ -31,6 +31,20 @@
     
     <item>
       <title>Build</title>
+      <link>http://localhost:1313/hardware/plantronicsptt/build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/plantronicsptt/build/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Build</title>
       <link>http://localhost:1313/hardware/rpcrc/build/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -974,6 +988,20 @@ i.e. In this case, construction dual-point rect at 129.413x69.83mm and then a ce
 &lt;p&gt;&lt;img src=&#34;https://stasis.hackclub-assets.com/images/1773642823993-2ad3du.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;img src=&#34;https://stasis.hackclub-assets.com/images/1773642920696-8unk86.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;
 &lt;img src=&#34;https://stasis.hackclub-assets.com/images/1773642933057-s03s6c.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://localhost:1313/hardware/plantronicsptt/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/plantronicsptt/journal/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Journal is an export and may have formatting issues. Time is in UTC.&lt;/p&gt;
 
       </description>
     </item>

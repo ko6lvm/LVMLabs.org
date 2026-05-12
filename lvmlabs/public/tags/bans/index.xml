@@ -29,7 +29,7 @@
   
   target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;
   &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-Blackmail - 18 USC § 873
+18 USC § 873
 &lt;/a&gt;
 
 &lt;a
@@ -38,7 +38,7 @@ Blackmail - 18 USC § 873
   
   target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;
   &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-Fraud - 18 USC § 1030 (CFAA)
+18 USC § 1030
 &lt;/a&gt;
 
 &lt;a
@@ -59,30 +59,82 @@ ToS
 11 May 2026
 &lt;/a&gt;
 
-&lt;p&gt;Liuxium was banned on May 11, 2026, at 5:30 PM PDT.&lt;/p&gt;
+&lt;p&gt;Liuxium was banned on May 11, 2026 for blackmail and fraud.&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Occured At&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Time&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Case Number&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;KSF Cybersecurity Initative Discord&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5/11/26&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Liuxium Discord&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5/11/26&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DMs&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5/11/26&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;#0054&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;table&gt;
+&lt;h2&gt;Authorization&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;authorization&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#authorization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Authorized By&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;KSF ATM - Administrator&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;KSF OPM1 - Ops Manager&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Involved Users&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;involved-users&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#involved-users&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Users&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Website&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;KSF ATM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://killsecurly.com&#34;
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;
+  KSF CI (LVMLabs)
+&lt;/a&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;KSF OPM1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://killsecurly.com&#34;
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;
+  KSF CI (LVMLabs)
+&lt;/a&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Liuxium&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://liuxium.xyz&#34;
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;
+  &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.5&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
+EXTERNAL LINK
+&lt;/a&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Regulations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;regulations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;Violated Regulations&lt;/th&gt;
@@ -95,16 +147,38 @@ ToS
           &lt;td style=&#34;text-align: left&#34;&gt;18 USC § 873&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Fraud&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Electronic Fraud&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;18 USC § 1030 (CFAA)&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;All Above&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;KSF Cybersecurity Initative ToS&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;KSF ToS&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Ban Record (Time in PDT)&lt;/p&gt;
+&lt;h2&gt;Timeline&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;timeline&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#timeline&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Occured At&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Time&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;KSF Discord&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5/11/26&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Liuxium Discord&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5/11/26&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;DMs&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5/11/26&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -158,6 +232,7 @@ ToS
 &lt;img src=&#34;images/proof2.png&#34;&gt;
 &lt;img src=&#34;images/proof3.png&#34;&gt;
 &lt;img src=&#34;images/proof4.png&#34;&gt;
+&lt;img src=&#34;images/proof5.png&#34;&gt;
       </description>
     </item>
     

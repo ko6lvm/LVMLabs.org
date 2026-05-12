@@ -30,6 +30,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/a320rmp/build/</loc>
   </url><url>
+    <loc>http://localhost:1313/hardware/plantronicsptt/build/</loc>
+  </url><url>
     <loc>http://localhost:1313/hardware/rpcrc/build/</loc>
   </url><url>
     <loc>http://localhost:1313/template/build/</loc>
@@ -42,9 +44,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/general/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/ham/</loc>
+  </url><url>
     <loc>http://localhost:1313/hardware/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/a320rmp/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hardware/plantronicsptt/journal/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/rpcrc/journal/</loc>
   </url><url>
@@ -55,6 +61,10 @@
     <loc>http://localhost:1313/software/ksf/</loc>
   </url><url>
     <loc>http://localhost:1313/software/ban/liuxium/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hardware/plantronicsptt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/radio/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radios/</loc>
   </url><url>
