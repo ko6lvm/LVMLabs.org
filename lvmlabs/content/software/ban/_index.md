@@ -23,4 +23,4 @@ Software
 
 | User | Reason | Link |
 | :---- | :---- | :---- |
-| Liuxium | Blackmail, Fraud | {{< hextra/hero-badge link="/software/ban/liuxium" >}} #0002 - Liuxium {{< /hextra/hero-badge >}}
+| Liuxium | Blackmail, Fraud | {{< hextra/hero-badge link="/software/ban/liuxium" >}} #0054 - Liuxium {{< /hextra/hero-badge >}}
