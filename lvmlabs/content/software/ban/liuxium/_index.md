@@ -25,7 +25,7 @@ Liuxium was banned on May 11, 2026 for blackmail and fraud.
 
 | Case Number |
 | :---- |
-| #0002 |
+| #0054 |
 
 ## Authorization
 | Authorized By |
@@ -68,3 +68,4 @@ Liuxium was banned on May 11, 2026 for blackmail and fraud.
 <img src="images/proof2.png">
 <img src="images/proof3.png">
 <img src="images/proof4.png">
+<img src="images/proof5.png">
