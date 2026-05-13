@@ -24,6 +24,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/a320rmp/</loc>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/software/ban/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/bans/</loc>
@@ -71,6 +73,8 @@
     <loc>http://localhost:1313/hardware/rpcrc/</loc>
   </url><url>
     <loc>http://localhost:1313/software/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/staff/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/tags/</loc>
   </url><url>

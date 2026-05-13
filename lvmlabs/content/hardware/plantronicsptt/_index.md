@@ -22,7 +22,7 @@ PTT Adapter for Baofeng radios with Plantronics QD headsets.
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-badge >}}
-Hardware
+{{< icon "tag" >}} Hardware
 {{< /hextra/hero-badge >}}
 
 <div class="hx:mt-4"></div>

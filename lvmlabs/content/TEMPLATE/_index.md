@@ -22,7 +22,7 @@ DESCRIPTION
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-badge >}}
-Hard/Software
+{{< icon "tag" >}} Hard/Software
 {{< /hextra/hero-badge >}}
 
 <div class="hx:mt-4"></div>

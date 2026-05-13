@@ -26,7 +26,7 @@ Cybersecurity tools and resources for students.
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-badge >}}
-Software
+{{< icon "tag" >}} Software
 {{< /hextra/hero-badge >}}
 
 {{< callout type="info" >}}

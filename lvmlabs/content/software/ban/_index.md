@@ -18,7 +18,7 @@ List of all users banned from all services and subsidiaries of LVMLabs.
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-badge >}}
-Software
+{{< icon "tag" >}} Software
 {{< /hextra/hero-badge >}}
 
 | User | Reason | Link |

@@ -20,12 +20,15 @@ menu:
     - name: Software
       pageRef: /software
       weight: 4
-    - name: Search
+    - name: About
+      pageRef: /about
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/ko6lvm/LVMLabs.org"
       params:
         icon: github

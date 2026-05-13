@@ -2,7 +2,7 @@
 title: "LVMLabs Formed"
 date: 2025-05-07
 authors:
-  - name: ko6lvm
+  - name: Ryan
     link: https://github.com/ko6lvm
     image: https://github.com/ko6lvm.png
 tags:
