@@ -1,0 +1,117 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LVMLabs – RPEDC</title>
+    <link>http://localhost:1313/hardware/rpedc/</link>
+    <description>Recent content in RPEDC on LVMLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/hardware/rpedc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Build</title>
+      <link>http://localhost:1313/hardware/rpedc/build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/rpedc/build/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Components</title>
+      <link>http://localhost:1313/hardware/rpedc/components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/rpedc/components/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Passives&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;passives&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#passives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Resistors&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;resistors&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#resistors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Name&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Value&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Location&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Purpose&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;R1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;N/A&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;N/A&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Capacitors&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;capacitors&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#capacitors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Name&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Value&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Location&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Purpose&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;C1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;0.1uF&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;N/A&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;N/A&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;MCU&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mcu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mcu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Name&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Model&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Location&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Purpose&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;MCU1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;RP2040&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Board Center&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;MCU&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://localhost:1313/hardware/rpedc/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/rpedc/journal/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Journal is an export and may have formatting issues. Time is in UTC.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

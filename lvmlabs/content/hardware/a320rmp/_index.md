@@ -26,7 +26,7 @@ Radio Management Panel (RMP) for the FlybyWire A320neo.
 
 <div class="hx:mt-4"></div>
 
-{{< hextra/hero-button text="See the Build →" link="buildlog" >}}
+{{< hextra/hero-button text="See the Build →" link="build" >}}
 
 <div class="hx:mt-8"></div>
 

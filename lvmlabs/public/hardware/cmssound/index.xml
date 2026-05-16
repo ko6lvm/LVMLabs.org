@@ -1,0 +1,374 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LVMLabs – CMS Event Center Sound</title>
+    <link>http://localhost:1313/hardware/cmssound/</link>
+    <description>Recent content in CMS Event Center Sound on LVMLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/hardware/cmssound/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/hardware/cmssound/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/cmssound/contact/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;hx:mt-4&#34;&gt;&lt;/div&gt;
+&lt;p&gt;JEONGWOO “RYAN” KIM&lt;br&gt;
+&lt;a href=&#34;mailto:ryan@ko6lvm.org&#34;&gt;ryan@ko6lvm.org&lt;/a&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>http://localhost:1313/hardware/cmssound/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/cmssound/license/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This manual is licensed under the GNU Free Documentation License (GNU FDL).&lt;/p&gt;
+&lt;p&gt;Copyright © 2026 Jeongwoo Kim, Jerry Jiang&lt;/p&gt;
+&lt;p&gt;Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.&lt;/p&gt;
+&lt;p&gt;A copy of the license is included in the section entitled &amp;ldquo;GNU Free Documentation License&amp;rdquo; or can be found at &lt;a href=&#34;https://www.gnu.org/licenses/fdl-1.3.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gnu.org/licenses/fdl-1.3.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;THIS DOCUMENT IS PROVIDED &amp;ldquo;AS IS&amp;rdquo; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND ACCURACY OF THE DOCUMENT IS WITH YOU. SHOULD THE DOCUMENT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.&lt;/p&gt;
+&lt;p&gt;ANY REDISTRIBUTION OR MODIFICATION OF THIS MANUAL MUST REMAIN UNDER THE GNU FREE DOCUMENTATION LICENSE “GNU FDL” AND PRESERVE AUTHOR ATTRIBUTION.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>System SoP</title>
+      <link>http://localhost:1313/hardware/cmssound/sop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hardware/cmssound/sop/</guid>
+      <description>
+        
+        
+        &lt;p
+  class=&#34;not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl&#34;
+  
+&gt;
+  Standard Operating Procedures
+&lt;/p&gt;
+
+&lt;div class=&#34;hx:mt-4&#34;&gt;&lt;/div&gt;
+&lt;a
+  href=&#34;license&#34;
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  &gt;
+  &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+GNU FDL
+&lt;/a&gt;
+
+&lt;a
+  
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  &gt;
+  &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M7 20l4-16m2 16l4-16M6 9h14M4 15h14&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+v1.5 Web
+&lt;/a&gt;
+
+&lt;a
+  
+  class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
+  
+  &gt;
+  &lt;span class=&#34;hx:inline-block hx:align-text-bottom hextra-icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+May 2026
+&lt;/a&gt;
+
+&lt;div class=&#34;hx:mt-4&#34;&gt;&lt;/div&gt;
+&lt;h2&gt;Warnings&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;warnings&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#warnings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;During operation of the sound system, it is possible you will be exposed to electrical wiring that can cause damage to equipment (oftentimes catastrophic), and injuries (possibly death) to the operator.&lt;/p&gt;
+&lt;p&gt;During the operation of the system follow all instructions, warnings, precautions, and notes supplied.&lt;/p&gt;
+&lt;p&gt;Throughout the course of this manual, the following symbols and supplied text will be used:&lt;/p&gt;
+&lt;p&gt;⚠ WARNING indicates any possible hazardous situation where catastrophic damage to equipment and the operator is possible. If this warning is not followed, fatalities and complete destruction of equipment is possible and sometimes likely.&lt;/p&gt;
+&lt;p&gt;⚠ CAUTION indicates any possible hazardous situation where small amounts of equipment damage could occur.&lt;/p&gt;
+&lt;p&gt;⚠ NOTE indicates any non-hazardous situation where if done improperly or incorrectly could result in a hazardous situation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FOLLOW ALL STEPS AND REGULATIONS OF THIS MANUAL. ANY IMPROPERLY DONE STEPS MAY RESULT IN HAZARDOUS CONDITIONS.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Modifications&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;modifications&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#modifications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Any modification should be carefully considered for compatibility with the existing hardware.&lt;/p&gt;
+&lt;h2&gt;Service&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;service&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#service&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Service of the Audio System will be done free of charge by Ryan Kim, until 2030, if available. Contact Ryan via the &lt;a href=&#34;http://localhost:1313/hardware/cmssound/contact/&#34;&gt;contact&lt;/a&gt; page.&lt;/p&gt;
+&lt;h2&gt;Components&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;components&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Master System&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;master-system&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#master-system&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Rane HAL2 Multiprocessor &lt;a href=&#34;https://www.ranecommercial.com/legacy/hal/hal2.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ranecommercial.com/legacy/hal/hal2.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Crest Audio Pro 7200 Amplifier &lt;a href=&#34;https://peaveycommercialaudio.com/product/pro-7200/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://peaveycommercialaudio.com/product/pro-7200/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Mixer Subsystem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mixer-subsystem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mixer-subsystem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Soundcraft EPM12 Mixer &lt;a href=&#34;https://www.soundcraft.com/en-US/products/epm12&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.soundcraft.com/en-US/products/epm12&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Mic System&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mic-system&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mic-system&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Audio-Technica System 10 (ATW-1101/H92) &lt;a href=&#34;https://www.audio-technica.com/en-us/microphones/wireless-systems/line-series/system-10/shop-systems/atw-1101-h92&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.audio-technica.com/en-us/microphones/wireless-systems/line-series/system-10/shop-systems/atw-1101-h92&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Technical References&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;technical-references&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#technical-references&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Cable Naming Format&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cable-naming-format&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#cable-naming-format&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;code&gt;Cable Type, #, Male[M]/Female[F], Length in ft.&lt;/code&gt;&lt;/strong&gt;&lt;br&gt;
+i.e. &lt;code&gt;XLR3F20&lt;/code&gt; for a &lt;code&gt;XLR&lt;/code&gt; cable, &lt;code&gt;#3&lt;/code&gt;, &lt;code&gt;Female&lt;/code&gt; end, &lt;code&gt;20 ft&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;“*” States any cable that follows the other parameters is usable.&lt;br&gt;
+i.e. For a &lt;code&gt;XLR*F20&lt;/code&gt;, cables marked &lt;code&gt;XLR1F20&lt;/code&gt;, &lt;code&gt;XLR2F20&lt;/code&gt;, etc can be used.&lt;/p&gt;
+&lt;p&gt;If you see a M side and need a F, use the other end of the cable.&lt;/p&gt;
+&lt;h3&gt;Connector Labeling&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;connector-labeling&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#connector-labeling&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Some connectors may be labeled, however, most will not be. If you are going to label, &lt;strong&gt;label with laminated labels ONLY to protect against damage/unreadability.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Electrical Safety&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;electrical-safety&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#electrical-safety&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;⚠ WARNING&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-warning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-warning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;ELECTRICITY CAN BE VERY DANGEROUS. 120V AC AT 60Hz CAN FATALLY HARM YOU AND EQUIPMENT. ALWAYS EXERCISE CAUTION.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;⚠ CAUTION&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-caution&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-caution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;ALL AUDIO SYSTEMS, INCLUDING THE MASTER RACK AND SUBMIXER, MUST BE CONNECTED TO AN EQUIPMENT GROUND (EARTH). NOT DOING SO MAY CAUSE EXCESSIVE ELECTRICAL NOISE IN THE MIX OR EQUIPMENT DAMAGE. ENSURE ALL GROUNDS THROUGHOUT THE SYSTEM COMPONENTS ARE BONDED IN ACCORDANCE WITH 8 CCR § 2395.1 AND CALIFORNIA ELECTRICAL CODE § 250.90.&lt;/strong&gt;
+&lt;img src=&#34;../images/gnd.png&#34; alt=&#34;Ground&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;strong&gt;A CODE-COMPLIANT GROUND FAULT CIRCUIT INTERRUPTER “GFCI” (OR “GFI”) WITHOUT A PROPER EQUIPMENT GROUND IS NOT AN ACCEPTABLE REPLACEMENT IN THE SOUND SYSTEM.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Setup&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;setup&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#setup&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Partially Connected&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;partially-connected&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#partially-connected&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;em&gt;If there is an unidentifiable partially connected setup, unplug all devices and cables and start from unassembled, following &lt;a href=&#34;http://localhost:1313/hardware/cmssound/sop/#unassembled&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setup From Unassembled&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Unassembled&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;unassembled&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unassembled&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Mics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Open a mic system box.&lt;/li&gt;
+&lt;li&gt;Take two rechargeable AA batteries from the charger.&lt;/li&gt;
+&lt;li&gt;Take the receiver out.&lt;/li&gt;
+&lt;li&gt;Take the mic pack out.&lt;/li&gt;
+&lt;li&gt;Take the wire mic out.&lt;/li&gt;
+&lt;li&gt;Attach the wire mic to the pack.&lt;/li&gt;
+&lt;li&gt;Add batteries to the pack.&lt;/li&gt;
+&lt;li&gt;Plug in the Receiver into an outlet with the included plug.&lt;/li&gt;
+&lt;li&gt;Find a XLR*F6 cable and plug it in to the receiver.&lt;/li&gt;
+&lt;li&gt;Turn on both receiver and pack.
+&lt;ol&gt;
+&lt;li&gt;To turn on the pack, hold the top button.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Set the channel number (go from 1, 2, 3, …, 8) on the receiver for the channel you’d like to use.
+&lt;ol&gt;
+&lt;li&gt;You can set the channel using the SYSTEM ID button.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Hold PAIR on the receiver.&lt;/li&gt;
+&lt;li&gt;Turn on pairing mode in the pack.&lt;/li&gt;
+&lt;li&gt;Go to the back of the receiver, and find the small volume knob. Turn it oriented to 12 o&amp;rsquo;clock (middle).&lt;/li&gt;
+&lt;li&gt;Get the other end of the XLR cable (M), and plug it into the mixer channel for the mic channel number.
+&lt;ol&gt;
+&lt;li&gt;i.e. Channel 1 goes to Mixer XLR 1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;../images/xlrin.png&#34; alt=&#34;XLR Inputs&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h4&gt;⚠ WARNING&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-warning-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-warning-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;SUPPLYING 48V PHANTOM POWER TO THE WIRELESS MIC RECEIVER CAN DESTROY THE INTERNALS OF BOTH THE RECEIVER AND MIXER. NEVER APPLY 48V PHANTOM POWER.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phantompwr.png&#34; alt=&#34;Phantom Power&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is the 48V Phantom Power Switch. Confirm that the 48V indicator is off before connecting equipment. Additionally, confirm the mixer and other equipment is OFF before proceeding.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PHANTOM POWER WILL DAMAGE EQUIPMENT IF USED IMPROPERLY.&lt;/strong&gt;&lt;/p&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;What is Phantom Power?&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;p&gt;48V Phantom Power is a method of sending 48V DC through audio cabling (in this instance, XLR cables) to power a mic with electronics, such as condenser microphones. The system that this manual is being written on does not use any equipment that requires 48V Phantom Power.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h4&gt;Submixer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;submixer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#submixer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Set ALL faders to UNITY gain. (12 o&amp;rsquo;clock)
+&lt;img src=&#34;../images/fader.png&#34; alt=&#34;Faders&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;strong&gt;Unity gain is the fader at 0 dB. 0 dB does NOT mean it’s muted. -∞ dB does.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Set all EQ (Equalizer) knobs to UNITY gain.
+&lt;img src=&#34;../images/eq.png&#34; alt=&#34;EQ&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;../images/eq2.png&#34; alt=&#34;EQ&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Unplug all input sources / cables.
+&lt;img src=&#34;../images/plugs.png&#34; alt=&#34;Plugs&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;../images/plugs2.png&#34; alt=&#34;Plugs&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Set every channel’s gain to 0 or MINIMUM.
+&lt;img src=&#34;../images/gain.png&#34; alt=&#34;Gain&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;strong&gt;You will adjust this later.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Pan every channel to CENTER. Our system cannot pan.
+&lt;img src=&#34;../images/pan.png&#34; alt=&#34;Pan&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Set every channel’s aux volume / gain to 0 or MINIMUM.
+&lt;img src=&#34;../images/aux.png&#34; alt=&#34;Aux&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Mute every channel and disengage every channel’s PFL.
+The PFL button should be at its TOP position. You can test this by pressing the PFL button and seeing if it pops UP or latches DOWN. It must be at TOP for now.
+&lt;img src=&#34;../images/pfl.png&#34; alt=&#34;PFL&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;strong&gt;We will unmute the channels later.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Set all AUX Master settings to AUX1 Pre and AUX2 Pre.
+&lt;img src=&#34;../images/auxmasters.png&#34; alt=&#34;Aux Masters&#34;  loading=&#34;lazy&#34; /&gt;
+&lt;strong&gt;Just like PFL, it must be UP.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Lower the MASTER Faders, both LEFT and RIGHT to 0 or MINIMUM -∞.&lt;/li&gt;
+&lt;li&gt;Set Stereo 2 fader to 0 or MINIMUM -∞.&lt;/li&gt;
+&lt;li&gt;Plug in your Computer Line Stereo and balance to FULL LEFT.
+&lt;img src=&#34;../images/balance.png&#34; alt=&#34;Balance&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;⚠ WARNING&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;-warning-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-warning-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;MISCONFIGURATION IS EXTREMELY LIKELY WHEN AN OPERATOR WITHOUT A FULL KNOWLEDGE OF THE SYSTEM IS ASSIGNED TO OPERATE OR MAINTAIN THE MASTER SETUP. MISCONFIGURATION MAY RESULT IN EQUIPMENT DAMAGE OR BODILY INJURY.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IF THERE IS NO OPERATOR CREDIBLE ENOUGH TO OPERATE THE MASTER SYSTEM, CONTACT THE WRITERS OF THIS MANUAL FOR SERVICE. SERVICE WILL BE DONE AT NO COST. ANY SERVICE EXCEEDING SUBMIXER CONNECTION TO THE SYSTEM SHALL BE DONE BY A QUALIFIED TECHNICIAN OR THE WRITERS OF THIS DOCUMENT. THIS DOCUMENT WILL ONLY CONTAIN THE INSTRUCTIONS TO CONNECT THE SUBMIXER TO THE MASTER SYSTEM AS IT IS THE ONLY OPERATION WITH THE MASTER SYSTEM THAT AN OPERATOR NOT FULLY KNOWLEDGABLE CAN DO.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Master System&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;master-system-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#master-system-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Turn off switching supply.&lt;/li&gt;
+&lt;li&gt;Unplug master strip plug from the receptacle.&lt;/li&gt;
+&lt;li&gt;Confirm audio rack is fully deenergized with a non-contact voltage tester.
+&lt;ol&gt;
+&lt;li&gt;However, treat all audio system internals as energized as components such as capacitors may be energized, even when master power is disconnected.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Open up the back panel.&lt;/li&gt;
+&lt;li&gt;Find the Rane AM2 Mixer.&lt;/li&gt;
+&lt;li&gt;Find the Channel 8 connector on the AM2 Mixer.&lt;/li&gt;
+&lt;li&gt;Set Channel 7 and 8 Group Mode to “MIC +0V”.&lt;/li&gt;
+&lt;li&gt;Set All Channel Input Levels to MID, HALF, or 12 o’clock.&lt;/li&gt;
+&lt;li&gt;Find a XLR*F100 cable and plug it into the MIX-L out on the submixer.
+&lt;ol&gt;
+&lt;li&gt;MIX-R will not be used.
+&lt;img src=&#34;../images/mixout.png&#34; alt=&#34;Mix Left Out&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Route XLR cable through cable hole on the bottom left of the backside of the rack.&lt;/li&gt;
+&lt;li&gt;Connect the male end of the XLR cable into the XLR to 3.5mm Mini EuroBlock adapter.&lt;/li&gt;
+&lt;li&gt;Connect the 3.5mm Mini EuroBlock connector into the Rane HAL2’s Analog In Channel 8 EuroBlock port/&lt;/li&gt;
+&lt;li&gt;Close back panel.&lt;/li&gt;
+&lt;li&gt;Re-connect master strip to wall receptacle.&lt;/li&gt;
+&lt;li&gt;Turn on switching supply.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Computer Input&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;computer-input&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#computer-input&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Find the cable labeled SFX*M6.&lt;/li&gt;
+&lt;li&gt;Find the smaller side (3.5mm) TRS plug and plug it into the computer audio out.&lt;/li&gt;
+&lt;li&gt;Set the computer audio output to “External Headphones”.&lt;/li&gt;
+&lt;li&gt;Get the two large male TS plugs (¼”) and plug the red (RING) into STEREO 1 RIGHT, and the black (TIP) to STEREO 1 LEFT.
+&lt;img src=&#34;../images/compaudio.png&#34; alt=&#34;Computer Audio&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Set the computer volume to 90% or FULL. Do not touch it for volume control.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;General Ops Checklist&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;general-ops-checklist&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general-ops-checklist&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Pre-Start&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;pre-start&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pre-start&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;All equalizers - Centered
+All cable connections - Flush and snug (Connected well)&lt;/p&gt;
+&lt;p&gt;Gain: 0 (MAX LEFT)&lt;br&gt;
+All Faders: -∞ dB&lt;br&gt;
+All Channels: Muted&lt;br&gt;
+All Channels PFL: Off&lt;br&gt;
+All Channels Pan: Center&lt;br&gt;
+Stereo 1 Balance: FULL LEFT&lt;br&gt;
+Aux Masters: AUX 1 PRE, AUX 2 PRE&lt;br&gt;
+Master Fader Left: -∞ dB&lt;br&gt;
+Master Fader Right: -∞ dB&lt;br&gt;
+All Channels: Muted&lt;br&gt;
+Phantom Power 48V: OFF&lt;/p&gt;
+&lt;h3&gt;Submixer Start&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;submixer-start&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#submixer-start&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Submixer Master Power - On&lt;br&gt;
+Peak Meter - Monitor for Peaking&lt;/p&gt;
+&lt;h3&gt;Mic Gain Tuning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mic-gain-tuning&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mic-gain-tuning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;NOTE: Every single performer will have a different gain setting. Therefore, use the same channel / receiver / mic for the same performer every single run.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PER CHANNEL:&lt;/strong&gt;&lt;br&gt;
+Channel Fader: -∞ dB&lt;br&gt;
+Channel PFL: ON&lt;br&gt;
+Performer for tuning: Speak CLEARLY and LOUDLY.
+Channel Gain: Slowly Raise&lt;br&gt;
+Stop Raising Gain When the Meter (Peaking Display) hits the Yellow bars.&lt;br&gt;
+Red bars indicate peaking.&lt;br&gt;
+Channel PFL: OFF (This is important!)&lt;/p&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; open&gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;What is PFL?&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;p&gt;The audio that comes into a channel input in a mixer goes through multiple steps / paths until it reaches the master output.&lt;/p&gt;
+&lt;p&gt;Here is the path:&lt;br&gt;
+Input → Gain → EQ → PFL Button → MUTE Switch → Fader → Master Output.&lt;/p&gt;
+&lt;p&gt;PFL allows you to view the volume of each channel &lt;em&gt;&lt;strong&gt;without&lt;/strong&gt;&lt;/em&gt; the audience hearing anything, if you have the channel muted and faders to -∞ dB, as you are bypassing the last three steps (MUTE, Fader, and Main Output).&lt;/p&gt;
+&lt;p&gt;With the PFL on for a specific channel (&lt;em&gt;for this example, Channel 1&lt;/em&gt;):&lt;br&gt;
+Input 1 → Gain → EQ → PFL Button → Monitor Out.&lt;/p&gt;
+&lt;p&gt;However, just because you have the PFL on doesn’t mean the other operations are affected. If you have the channel faded up and mute off, the audience (or the master out) will have the audio from the channel as well.&lt;/p&gt;
+&lt;p&gt;Essentially, PFL allows you to view (and listen to) individual channels separate from the master out. If you have a headphone connected to the PHONE output jack, you will be able to hear the PFL isolated channel as well. PFL &lt;strong&gt;will&lt;/strong&gt; “hijack” all other signals to the Monitor when it is on.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3&gt;Ready State&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ready-state&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ready-state&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Submixer Master Power: OFF&lt;br&gt;
+All Microphone Receivers: ON&lt;br&gt;
+All Sources: ON&lt;br&gt;
+Submixer Master Power: ON&lt;br&gt;
+Master Audio Rack Master Power: ON&lt;br&gt;
+&lt;em&gt;Wait for master mixer, multiprocessor, and amp startup.&lt;/em&gt;&lt;br&gt;
+Confirm Switching Supply Power Status: ON and STABLE&lt;br&gt;
+&lt;em&gt;SEQUENCE: ON&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;1, 2, 3, 4: ACTIVATED&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;SURGE &amp;amp; GROUND SUPPRESSION: ON &amp;amp; FULL&lt;/em&gt;&lt;br&gt;
+Master Faders: UNITY / 0 dB&lt;br&gt;
+All Channel Faders: -∞ dB&lt;br&gt;
+All Mutes: ON&lt;/p&gt;
+&lt;h3&gt;Performance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;performance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#performance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Specific Mic Channel Fader: GRADUALLY Raise to UNITY / 0 dB&lt;br&gt;
+Specific Mic Channel Mute: OFF&lt;br&gt;
+Master Fader LEFT: GRADUALLY Raise to UNITY / 0 dB&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adjust Channel Fader As Required&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If required, you may adjust the gain. &lt;strong&gt;Only change the gain after you’ve pushed the channel fader to its maximums and it’s still not peaking.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changing the master fader is dangerous. Only adjust it during performances if you know every single channel won’t peak.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Things To Keep In Mind&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;things-to-keep-in-mind&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#things-to-keep-in-mind&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;There are quite a few things to keep in mind when running sound, for both the system operator and the performers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OPERATORS:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Red On Meter = Too Loud. Red means peaking.&lt;/li&gt;
+&lt;li&gt;Trust The Meter! Just because it’s quiet for YOU doesn’t mean it’s quiet for THEM.&lt;/li&gt;
+&lt;li&gt;If you see a RED LED next to the master faders blinking or solid, check it out. If it’s the PFLs, it makes the monitors and the meter “lie” to you by only showing you that specific PFL channel.
+&lt;ul&gt;
+&lt;li&gt;If PFL’s on, find it and turn it off.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Don’t chase the gain, chase the fader first. &lt;strong&gt;ONLY&lt;/strong&gt; adjust the gain during performances when you have the fader at maximum and it’s still not going into the orange in the meter.&lt;/li&gt;
+&lt;li&gt;Keep the receivers line-of-sight. The mics run at 2.4 GHz frequencies (12.5cm band) and those frequencies are limited to line-of-sight (or &lt;em&gt;almost&lt;/em&gt; line-of-sight)&lt;/li&gt;
+&lt;li&gt;Turn on your equipment in the order of &lt;em&gt;Sources (Mic Receivers, Computers), Mixer, and Master Rack&lt;/em&gt;. Turn it off in the inverse order. &lt;strong&gt;Not doing so may cause equipment damage.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Always, always, always&lt;/strong&gt; remove the batteries from the mic packs and put them in the charger. &lt;strong&gt;Not doing so may drain the batteries and possibly cause battery leaking (which may cause equipment damage).&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If there is a &lt;em&gt;&lt;strong&gt;really&lt;/strong&gt;&lt;/em&gt; weird sound coming out (i.e. something loud, such as static or feedback), find out what it is and turn the fader completely off. If you still can’t find it, turn the master fader off and figure it out from there.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;PERFORMERS:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do &lt;strong&gt;NOT&lt;/strong&gt; bend the mics aggressively. The mics are surprisingly fragile and &lt;strong&gt;they can break&lt;/strong&gt;. They are &lt;strong&gt;very expensive.&lt;/strong&gt; ($150+ &lt;em&gt;per&lt;/em&gt; mic)&lt;/li&gt;
+&lt;li&gt;Keep the mic around one finger-width next to your mouth.&lt;/li&gt;
+&lt;li&gt;Clip your mic cable onto your shirt.&lt;/li&gt;
+&lt;li&gt;Assume EVERYTHING you say can be heard by EVERYONE. Don’t say anything you don’t want to scream at the whole school.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Handling the Unexpected&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;handling-the-unexpected&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#handling-the-unexpected&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Throughout the usage of the sound system, various parts and components may fail. This section will cover most problems. Follow the checklist in its listed order:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker Level Imbalance&lt;/strong&gt;&lt;br&gt;
+Check the Rane DR2 / Rane DR3 in the Event Center and check all Zone Volumes are equal. The Controllers are in the Event Center near the door next to the backstage door. It is also labeled as &lt;strong&gt;SOUND SYSTEM DO NOT TOUCH.&lt;/strong&gt;
+&lt;img src=&#34;../images/dr3.png&#34; alt=&#34;Rane DR3&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No master sound&lt;/strong&gt;&lt;br&gt;
+Check if the main system power is off.&lt;br&gt;
+Check if the mixer power is off.&lt;br&gt;
+Check if the master fader is at -∞ dB.&lt;br&gt;
+Check input gain is set correctly for all channels (See &lt;em&gt;Mic Gain Tuning)&lt;/em&gt;&lt;br&gt;
+Try a known, working cable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No Sound From Individual Mic&lt;/strong&gt;&lt;br&gt;
+Check Mic Receiver is Connected and Powered to the Pack.&lt;br&gt;
+Check Mic Receiver Volume is at MID / 50% / facing 12 o’clock.&lt;br&gt;
+Check Mixer Channel Fader is not at -∞ dB.&lt;br&gt;
+Check input gain is set correctly (See &lt;em&gt;Mic Gain Tuning)&lt;/em&gt;&lt;br&gt;
+Try a known, working cable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Checking Cables&lt;/strong&gt;&lt;br&gt;
+Confirm your XLR cables have continuity; check 1-1, 2-2, and 3-3. The connectors will be labeled with very small text on the connector.
+&lt;img src=&#34;../images/xlrpinout.png&#34; alt=&#34;XLR Pinout&#34;  loading=&#34;lazy&#34; /&gt;
+Confirm your XLR cables’ resistance is low, preferably under 100 Ohms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HAL2 Doesn’t Process Sound&lt;/strong&gt;&lt;br&gt;
+Download the Rane Halogen software onto a compatible Windows computer, connect it to the HAL2 via Ethernet, and troubleshoot using the included meters.&lt;/p&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

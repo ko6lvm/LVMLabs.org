@@ -63,7 +63,7 @@ Hardware
 
 &lt;div class=&#34;hx:mt-4&#34;&gt;&lt;/div&gt;
 &lt;a
-  href=&#34;buildlog&#34;
+  href=&#34;build&#34;
   class=&#34;not-prose hx:font-medium hx:cursor-pointer hx:px-6 hx:py-3 hx:rounded-full hx:text-center hx:text-white hx:inline-block hx:bg-primary-600 hx:hover:bg-primary-700 hx:hextra-focus-visible hx:dark:bg-primary-600 hx:dark:hover:bg-primary-700 hx:transition-all hx:ease-in hx:duration-200&#34;
   
   &gt;See the Build →&lt;/a&gt;
