@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LVMLabs – Flight Sim</title>
+    <title>LVMLabs – Flight Sim:</title>
     <link>http://localhost:1313/tags/flight-sim/</link>
-    <description>Recent content in Flight Sim on LVMLabs</description>
+    <description>Recent content in Flight Sim: on LVMLabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -15,11 +15,11 @@
     
     
     <item>
-      <title>RPCRC v1</title>
-      <link>http://localhost:1313/hardware/rpcrc/</link>
+      <title>A320RMP v1</title>
+      <link>http://localhost:1313/hardware/a320rmp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hardware/rpcrc/</guid>
+      <guid>http://localhost:1313/hardware/a320rmp/</guid>
       <description>
         
         
@@ -27,12 +27,12 @@
   class=&#34;not-prose hx:text-xl hx:text-gray-600 hx:dark:text-gray-400 hx:sm:text-xl&#34;
   
 &gt;
-  Press-To-Talk (PTT) for VATSIM&amp;rsquo;s Consolidated Radar Client.
+  Radio Management Panel (RMP) for the FlybyWire A320neo.
 &lt;/p&gt;
 
 &lt;div class=&#34;hx:mt-4&#34;&gt;&lt;/div&gt;
 &lt;a
-  href=&#34;https://github.com/ko6lvm/RPCRC&#34;
+  href=&#34;https://github.com/ko6lvm/a320rmp&#34;
   class=&#34; not-prose hx:inline-flex hx:items-center hx:rounded-full hx:gap-2 hx:px-3 hx:py-1 hx:text-xs hx:text-gray-600 hx:dark:text-gray-400 hx:bg-gray-100 hx:dark:bg-neutral-800 hx:border-gray-200 hx:dark:border-neutral-800 hx:border hx:hover:border-gray-400 hx:dark:hover:text-gray-50 hx:dark:hover:border-gray-600 hx:transition-all hx:ease-in hx:duration-200&#34;
   
   target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;
@@ -78,16 +78,7 @@ Hardware
 &lt;/div&gt;
 
 &lt;div class=&#34;hx:mt-8&#34;&gt;&lt;/div&gt;
-&lt;img src=&#34;rpcrc.png&#34; alt=&#34;Project Image&#34; width=450&gt;
-&lt;h2&gt;Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;features&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;3 Dedicated MX Switches for PTT and Deafen Toggles&lt;/li&gt;
-&lt;li&gt;4 Dedicated On-Off Switches for RX, SPKR, XC, and XCA Toggles in CRC
-&lt;sup&gt;(INOP of 4/2026 due to CRC AFV Restrictions)&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;3 Green, Blue, and Red LEDs for PTT and Deafen&lt;/li&gt;
-&lt;li&gt;Custom Board with RP2040&lt;/li&gt;
-&lt;li&gt;Custom KMK Firmware for ARM Cortex-M0+ on CircuitPython&lt;/li&gt;
-&lt;/ul&gt;
+&lt;img src=&#34;a320rmp.png&#34; alt=&#34;Project Image&#34; width=450&gt;
       </description>
     </item>
     
