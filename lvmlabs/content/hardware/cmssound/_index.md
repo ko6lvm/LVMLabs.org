@@ -9,8 +9,6 @@ draft: false
 Sound subsystem for Cupertino Middle's Event Center.
 {{< /hextra/hero-subtitle >}}
 
-Assembled by Jeongwoo "Ryan" Kim and Jerry Jiang.
-
 <!--more-->
 
 <div class="hx:mt-4"></div>
@@ -22,6 +20,8 @@ Assembled by Jeongwoo "Ryan" Kim and Jerry Jiang.
 {{< hextra/hero-badge >}}
 {{< icon "tag" >}} Hardware
 {{< /hextra/hero-badge >}}
+
+Assembled by Jeongwoo "Ryan" Kim and Jerry Jiang.
 
 <div class="hx:mt-8"></div>
 
