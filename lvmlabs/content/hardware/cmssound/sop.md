@@ -11,7 +11,7 @@ Standard Operating Procedures
 
 <div class="hx:mt-4"></div>
 
-{{< hextra/hero-badge link="license" >}}
+{{< hextra/hero-badge link="/hardware/cmssound/license/" >}}
 {{< icon "scale" >}} GNU FDL
 {{< /hextra/hero-badge >}}
 
@@ -25,8 +25,26 @@ Standard Operating Procedures
 
 <div class="hx:mt-4"></div>
 
-## Warnings
+Primarily Written by Jeongwoo "Ryan" Kim  
+with the help of Jerry Jiang.
 
+## License
+This document is licensed under the GNU Free Documentation License (GNU FDL).  
+Copyright © 2025-2026 Jeongwoo Kim, Jerry Jiang.
+
+## Legal
+**Read the manual.**  
+**Understand the manual.**  
+
+**ANY misoperation caused by the future operators of the Audio System and anything related will not be the legal and financial responsibility of the writer of this manual.**  
+
+**This manual comes with absolutely NO warranty.**  
+
+**THE SOUND SYSTEM, UPON DISTRICT LEAVE OF THE WRITERS OF THIS MANUAL, WILL NO LONGER BE THE LEGAL RESPONSIBILITY OF THE WRITERS.**  
+
+**ALL INFORMATION REGARDING FREE SERVICE BY THE WRITERS OF THIS MANUAL IS NON BINDING AND IS NOT A LEGAL GUARANTEE.**  
+
+## Warnings
 During operation of the sound system, it is possible you will be exposed to electrical wiring that can cause damage to equipment (oftentimes catastrophic), and injuries (possibly death) to the operator.
 
 During the operation of the system follow all instructions, warnings, precautions, and notes supplied.

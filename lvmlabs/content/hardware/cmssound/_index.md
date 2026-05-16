@@ -6,8 +6,10 @@ draft: false
 ---
 
 {{< hextra/hero-subtitle >}}
-Sound subsystem for Cupertino MS's Event Center.
+Sound subsystem for Cupertino Middle's Event Center.
 {{< /hextra/hero-subtitle >}}
+
+Assembled by Jeongwoo "Ryan" Kim and Jerry Jiang.
 
 <!--more-->
 
@@ -21,6 +23,6 @@ Sound subsystem for Cupertino MS's Event Center.
 {{< icon "tag" >}} Hardware
 {{< /hextra/hero-badge >}}
 
-<div class="hx:mt-4"></div>
+<div class="hx:mt-8"></div>
 
 {{< hextra/hero-button text="Manual →" link="sop" >}}

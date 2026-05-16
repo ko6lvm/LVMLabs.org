@@ -46,6 +46,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/components/</loc>
   </url><url>
+    <loc>http://localhost:1313/hardware/cmssound/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/edu/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/flight-sim/</loc>
@@ -72,9 +74,9 @@
   </url><url>
     <loc>http://localhost:1313/software/ksf/</loc>
   </url><url>
-    <loc>http://localhost:1313/software/ban/liuxium/</loc>
+    <loc>http://localhost:1313/hardware/cmssound/license/</loc>
   </url><url>
-    <loc>http://localhost:1313/hardware/cmssound/manual/</loc>
+    <loc>http://localhost:1313/software/ban/liuxium/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/plantronicsptt/</loc>
   </url><url>
@@ -91,6 +93,8 @@
     <loc>http://localhost:1313/software/</loc>
   </url><url>
     <loc>http://localhost:1313/about/staff/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hardware/cmssound/sop/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/tags/</loc>
   </url><url>
