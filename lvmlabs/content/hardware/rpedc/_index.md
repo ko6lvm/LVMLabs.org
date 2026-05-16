@@ -6,7 +6,7 @@ draft: false
 ---
 
 {{< hextra/hero-subtitle >}}
-DESCRIPTION
+Everyday Carry Device with GPS, WX, ToF, and more.
 {{< /hextra/hero-subtitle >}}
 
 <!--more-->
