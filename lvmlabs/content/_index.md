@@ -20,7 +20,7 @@ Designing. Deploying. Defending.
 <div class="hx:mt-4"></div>
 
 {{< hextra/hero-subtitle >}}
-Student led nonprofit pushing the limits of various enginnering skills and technologies.
+Student led group pushing the limits of various enginnering skills and technologies.
 {{< /hextra/hero-subtitle >}}
 
 <div class="hx:mt-8"></div>
