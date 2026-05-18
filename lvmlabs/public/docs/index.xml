@@ -73,6 +73,20 @@
     
     <item>
       <title>Build</title>
+      <link>http://localhost:1313/software/cordis/build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/cordis/build/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Build</title>
       <link>http://localhost:1313/template/build/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1126,6 +1140,20 @@ i.e. In this case, construction dual-point rect at 129.413x69.83mm and then a ce
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/hardware/rpedc/journal/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Journal is an export and may have formatting issues. Time is in UTC.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://localhost:1313/software/cordis/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/cordis/journal/</guid>
       <description>
         
         

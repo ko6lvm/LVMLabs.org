@@ -38,6 +38,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/build/</loc>
   </url><url>
+    <loc>http://localhost:1313/software/cordis/build/</loc>
+  </url><url>
     <loc>http://localhost:1313/template/build/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -49,6 +51,8 @@
     <loc>http://localhost:1313/hardware/cmssound/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/about/contributors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/cordis/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/edu/</loc>
   </url><url>
@@ -69,6 +73,8 @@
     <loc>http://localhost:1313/hardware/rpcrc/journal/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/journal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/cordis/journal/</loc>
   </url><url>
     <loc>http://localhost:1313/template/journal/</loc>
   </url><url>
