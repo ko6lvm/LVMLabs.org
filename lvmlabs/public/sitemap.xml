@@ -48,6 +48,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/cmssound/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/about/contributors/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/edu/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/flight-sim/</loc>
@@ -80,6 +82,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/plantronicsptt/</loc>
   </url><url>
+    <loc>http://localhost:1313/privacy/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/radio/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radios/</loc>
@@ -92,12 +96,12 @@
   </url><url>
     <loc>http://localhost:1313/software/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/staff/</loc>
-  </url><url>
     <loc>http://localhost:1313/hardware/cmssound/sop/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/template/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tos/</loc>
   </url>
 </urlset>

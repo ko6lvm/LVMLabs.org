@@ -24,3 +24,7 @@ Because this is student run, we don't have much funding. There are the historica
 | 2026 | $302 |
 
 *We are trying to develop or find a way to make spending more transparent!*
+
+## Legal
+[Terms of Service](/tos)  
+[Privacy Policy](/privacy)
