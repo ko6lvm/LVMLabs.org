@@ -73,20 +73,6 @@
     
     <item>
       <title>Build</title>
-      <link>http://localhost:1313/software/cordis/build/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/software/cordis/build/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Build</title>
       <link>http://localhost:1313/template/build/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1150,20 +1136,6 @@ i.e. In this case, construction dual-point rect at 129.413x69.83mm and then a ce
     
     <item>
       <title>Journal</title>
-      <link>http://localhost:1313/software/cordis/journal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/software/cordis/journal/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The Journal is an export and may have formatting issues. Time is in UTC.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
       <link>http://localhost:1313/template/journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1191,6 +1163,41 @@ i.e. In this case, construction dual-point rect at 129.413x69.83mm and then a ce
 &lt;p&gt;A copy of the license is included in the section entitled &amp;ldquo;GNU Free Documentation License&amp;rdquo; or can be found at &lt;a href=&#34;https://www.gnu.org/licenses/fdl-1.3.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gnu.org/licenses/fdl-1.3.html&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;THIS DOCUMENT IS PROVIDED &amp;ldquo;AS IS&amp;rdquo; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND ACCURACY OF THE DOCUMENT IS WITH YOU. SHOULD THE DOCUMENT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ANY REDISTRIBUTION OR MODIFICATION OF THIS MANUAL MUST REMAIN UNDER THE GNU FREE DOCUMENTATION LICENSE “GNU FDL” AND PRESERVE AUTHOR ATTRIBUTION.&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Regulations</title>
+      <link>http://localhost:1313/software/cordis/regulations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/cordis/regulations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;These Regulations govern your access to and use of the Website, Application, and Services (collectively, the “Services”) provided by Cordis, under KSF Cybersecurity Initative, under LVMLabs (“we,” “us,” or “our”). By using the Services associated, you agree to be bound by these Regulations.&lt;/p&gt;
+&lt;h2&gt;Legal&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;legal&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#legal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;SECTION 230 LIMITATION OF LIABILITY &amp;amp; CONTENT DISCLAIMER&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;section-230-limitation-of-liability--content-disclaimer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#section-230-limitation-of-liability--content-disclaimer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Pursuant to Section 230 of the Communications Decency Act of 1996 (47 U.S.C. § 230), Cordis and LVMLabs operates strictly as an &amp;ldquo;interactive computer service&amp;rdquo; provider and shall not be treated as the publisher or speaker of any information provided by another information content provider.&lt;/p&gt;
+&lt;p&gt;Cordis and LVMLabs expressly disclaims any and all liability arising from, or relating to, user-generated content, texts, messages, media, or transmissions hosted on or communicated through this platform. All users are solely, exclusively, and legally liable for the content they transmit.&lt;/p&gt;
+&lt;p&gt;Under federal law, Cordis and LVMLabs is immune from liability for any defamatory, offensive, unlawful, or otherwise actionable material posted by third parties. The reservation of our right to monitor, moderate, or remove content at our sole discretion shall not be construed as an assumption of liability, nor does it waive any immunities provided under 47 U.S.C. § 230.&lt;/p&gt;
+&lt;h2&gt;Terms of Service&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;terms-of-service&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#terms-of-service&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;ACCEPTANCE&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;acceptance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#acceptance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;By accessing or using any part of the Services, you agree to comply with and be bound by these Terms. If you are using the Services on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.&lt;/p&gt;
+&lt;h3&gt;USAGE&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#usage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You are strictly prohibited from using the Service to transmit, post, link to, or otherwise distribute any content that falls under the following categories:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Illegal Content &amp;amp; Activities:&lt;/strong&gt; Any material that violates federal, state, or local laws. This includes, but is not limited to, the sale or promotion of illegal drugs, unauthorized weapons, human trafficking, or instructions on creating explosives or executing cyberattacks.&lt;br&gt;
+&lt;strong&gt;Threats &amp;amp; Harassment:&lt;/strong&gt; Direct or indirect threats of violence, physical harm, or death against any individual or group. This includes targeted harassment, stalking, cyberbullying, and doxxing (the unauthorized release of private, personally identifiable information).&lt;br&gt;
+&lt;strong&gt;Intellectual Property Infringement:&lt;/strong&gt; Any content that infringes upon third-party copyrights, trademarks, patents, trade secrets, or proprietary rights.&lt;br&gt;
+&lt;strong&gt;Malicious Software &amp;amp; Interference:&lt;/strong&gt; The transmission of viruses, malware, spyware, ransomware, or any code designed to disrupt, damage, or limit the functionality of this platform or any user&amp;rsquo;s device.&lt;br&gt;
+&lt;strong&gt;Fraud &amp;amp; Impersonation:&lt;/strong&gt; Engaging in phishing schemes, financial scams, or falsely representing yourself as another individual, entity, or an employee of this platform.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FREEDOM OF SPEECH:&lt;/strong&gt; USERS OF CORDIS ARE ENTITLED TO THE IDEALS AND RIGHTS TO FREEDOM OF SPEECH. HOWEVER, ANY CONTENT PERCEIVED AS A THREAT TO THE SERVICE, THE USERS OF THE SERVICE, OR ANY AFFILIATED PROPERTY AND ENTITIES, OR ANY CONTENT THAT VIOLATES LOCAL, STATE, OR FEDERAL LAW, OR ANY CONTENT THAT VIOLATES CORDIS AND LVMLABS TERMS OF SERVICES MAY BE REMOVED AT THE DISCRETION OF THE ADMINISTRATORS OF THE SERVICE.&lt;/p&gt;
+&lt;h3&gt;ENFORCEMENT &amp;amp; TERMINATION&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;enforcement--termination&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#enforcement--termination&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Cordis and LVMLabs reserves the absolute and sole discretion to determine whether a user has violated these restrictions. Violation of any provision will result in the immediate, permanent termination of your account and access privileges without prior notice.
+We reserve the right to log, preserve, and disclose any transmission or user data to federal, state, or international law enforcement agencies if we believe, in good faith, that such disclosure is necessary to investigate illegal acts or prevent imminent bodily harm.&lt;/p&gt;
+&lt;h3&gt;LIABILITY&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;liability&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#liability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL CORDIS AND LVMLABS, ITS CONTRIBUTORS, OR ITS FISCAL SPONSORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES. THIS INCLUDES, BUT IS NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, OR ANY PROPERTY DAMAGE RESULTING FROM THE USE OR INABILITY TO USE THE SERVICES.&lt;/strong&gt;&lt;/p&gt;
 
       </description>
     </item>
@@ -1526,6 +1533,81 @@ Confirm your XLR cables have continuity; check 1-1, 2-2, and 3-3. The connectors
 Confirm your XLR cables’ resistance is low, preferably under 100 Ohms.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;HAL2 Doesn’t Process Sound&lt;/strong&gt;&lt;br&gt;
 Download the Rane Halogen software onto a compatible Windows computer, connect it to the HAL2 via Ethernet, and troubleshoot using the included meters.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>http://localhost:1313/software/cordis/updates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/software/cordis/updates/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;v4.9&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v49&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v49&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;AI Chatbot&lt;/li&gt;
+&lt;li&gt;/spinthewheel&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.8&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v48&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v48&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Spoiler text&lt;/li&gt;
+&lt;li&gt;In-app Notifications&lt;/li&gt;
+&lt;li&gt;Push Notifications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.7&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v47&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v47&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.6&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v46&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v46&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Private Server Admins&lt;/li&gt;
+&lt;li&gt;Hall of Fame&lt;/li&gt;
+&lt;li&gt;General image generation commands&lt;/li&gt;
+&lt;li&gt;Reply / reaction indicators&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.5&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v45&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v45&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;General image generation commands&lt;/li&gt;
+&lt;li&gt;Search feature (Ctrl + K)&lt;/li&gt;
+&lt;li&gt;Line spacing and text formatting&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.4&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v44&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v44&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v43&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v43&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;New slash commands&lt;/li&gt;
+&lt;li&gt;New server&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v42&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v42&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Data export and import&lt;/li&gt;
+&lt;li&gt;New slash commands&lt;/li&gt;
+&lt;li&gt;New server migration preperation&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4.1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v41&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v41&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Called &amp;ldquo;v4 Optimized&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Optimized message handling&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v4&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;New UI&lt;/li&gt;
+&lt;li&gt;New decorations&lt;/li&gt;
+&lt;li&gt;New avatar handling and styling&lt;/li&gt;
+&lt;li&gt;New message decoration and styling&lt;/li&gt;
+&lt;li&gt;Bug fixes and other general improvements&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     

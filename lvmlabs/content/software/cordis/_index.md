@@ -13,21 +13,22 @@ Frontend-dependant web communications application.
 
 <div class="hx:mt-4"></div>
 
-{{< hextra/hero-button text="Regulations →" link="regulations" >}}
-
-<div class="hx:mt-8"></div>
-
-{{< hextra/hero-badge link="LICENSE" >}}
+{{< hextra/hero-badge >}}
 {{< icon "scale" >}} LVMLabs Confidential
 {{< /hextra/hero-badge >}}
 
-{{< hextra/hero-badge link="LICENSE" >}}
+{{< hextra/hero-badge >}}
 {{< icon "warning" >}} Private Access
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-badge >}}
 {{< icon "tag" >}} Software
 {{< /hextra/hero-badge >}}
+
+
+<div class="hx:mt-8"></div>
+
+{{< hextra/hero-button text="Regulations →" link="regulations" >}}
 
 <div class="hx:mt-8"></div>
 

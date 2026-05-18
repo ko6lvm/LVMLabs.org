@@ -38,8 +38,6 @@
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/build/</loc>
   </url><url>
-    <loc>http://localhost:1313/software/cordis/build/</loc>
-  </url><url>
     <loc>http://localhost:1313/template/build/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -74,8 +72,6 @@
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/journal/</loc>
   </url><url>
-    <loc>http://localhost:1313/software/cordis/journal/</loc>
-  </url><url>
     <loc>http://localhost:1313/template/journal/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/ksf/</loc>
@@ -94,11 +90,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/radios/</loc>
   </url><url>
+    <loc>http://localhost:1313/software/cordis/regulations/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/rp2040/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/rpcrc/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/rules/</loc>
   </url><url>
     <loc>http://localhost:1313/software/</loc>
   </url><url>
@@ -109,5 +109,7 @@
     <loc>http://localhost:1313/template/</loc>
   </url><url>
     <loc>http://localhost:1313/tos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/cordis/updates/</loc>
   </url>
 </urlset>
