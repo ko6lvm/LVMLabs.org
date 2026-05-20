@@ -9,7 +9,7 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
 <title>Components – LVMLabs</title>
-  <meta name="description" content="Passives Resistors Name Value Location Purpose R1 100 N/A N/A Capacitors Name Value Location Purpose C1-3 1uF RP2040 3V3 Load C4-8 0.1uF RP2040 3V3 Load MCU Name Model Location Purpose MCU1 RP2040 Board Center MCU " /><link rel="canonical" href="http://localhost:1313/hardware/rpedc/components/" itemprop="url" />
+  <meta name="description" content="Passives Resistors Name Value Location Purpose R1 100 N/A N/A Capacitors Name Value Location Purpose C1-3 1uF RP2040 3V3 Load C4-8 0.1uF RP2040 3V3 Load C9-10 1uF RP2040 1V1 Load C11-13 0.1uF RP2040 1V1 Load Inputs Name Value Location Purpose SW0 Oval Button Flash BOOTSEL MCU Name Model Location Purpose MCU1 RP2040 Board Center MCU " /><link rel="canonical" href="http://localhost:1313/hardware/rpedc/components/" itemprop="url" />
 
 <meta property="og:title" content="Components">
 <meta
@@ -59,6 +59,37 @@ Capacitors
           RP2040 3V3
           Load
       
+      
+          C9-10
+          1uF
+          RP2040 1V1
+          Load
+      
+      
+          C11-13
+          0.1uF
+          RP2040 1V1
+          Load
+      
+  
+
+Inputs
+    
+  
+      
+          Name
+          Value
+          Location
+          Purpose
+      
+  
+  
+      
+          SW0
+          Oval Button
+          Flash
+          BOOTSEL
+      
   
 
 MCU
@@ -93,11 +124,11 @@ MCU
 
 
   <meta itemprop="name" content="Components">
-  <meta itemprop="description" content="Passives Resistors Name Value Location Purpose R1 100 N/A N/A Capacitors Name Value Location Purpose C1-3 1uF RP2040 3V3 Load C4-8 0.1uF RP2040 3V3 Load MCU Name Model Location Purpose MCU1 RP2040 Board Center MCU">
-  <meta itemprop="wordCount" content="35">
+  <meta itemprop="description" content="Passives Resistors Name Value Location Purpose R1 100 N/A N/A Capacitors Name Value Location Purpose C1-3 1uF RP2040 3V3 Load C4-8 0.1uF RP2040 3V3 Load C9-10 1uF RP2040 1V1 Load C11-13 0.1uF RP2040 1V1 Load Inputs Name Value Location Purpose SW0 Oval Button Flash BOOTSEL MCU Name Model Location Purpose MCU1 RP2040 Board Center MCU">
+  <meta itemprop="wordCount" content="55">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Components">
-  <meta name="twitter:description" content="Passives Resistors Name Value Location Purpose R1 100 N/A N/A Capacitors Name Value Location Purpose C1-3 1uF RP2040 3V3 Load C4-8 0.1uF RP2040 3V3 Load MCU Name Model Location Purpose MCU1 RP2040 Board Center MCU">
+  <meta name="twitter:description" content="Passives Resistors Name Value Location Purpose R1 100 N/A N/A Capacitors Name Value Location Purpose C1-3 1uF RP2040 3V3 Load C4-8 0.1uF RP2040 3V3 Load C9-10 1uF RP2040 1V1 Load C11-13 0.1uF RP2040 1V1 Load Inputs Name Value Location Purpose SW0 Oval Button Flash BOOTSEL MCU Name Model Location Purpose MCU1 RP2040 Board Center MCU">
 <link href="/css/compiled/main.css" rel="stylesheet" />
     <link href="/css/variables.css" rel="stylesheet" />
     <link href="/css/custom.css" rel="stylesheet" />
@@ -502,6 +533,12 @@ MCU
                 href="#passives"
                 class="hx:flex hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [word-break:break-word] hx:cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] hx:contrast-more:border hx:gap-2 hx:before:opacity-25 hx:before:content-['#'] hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:text-gray-900 hx:contrast-more:dark:text-gray-50 hx:contrast-more:border-transparent hx:contrast-more:hover:border-gray-900 hx:contrast-more:dark:hover:border-gray-50"
               >Passives</a>
+            </li>
+          <li>
+              <a
+                href="#inputs"
+                class="hx:flex hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [word-break:break-word] hx:cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] hx:contrast-more:border hx:gap-2 hx:before:opacity-25 hx:before:content-['#'] hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:text-gray-900 hx:contrast-more:dark:text-gray-50 hx:contrast-more:border-transparent hx:contrast-more:hover:border-gray-900 hx:contrast-more:dark:hover:border-gray-50"
+              >Inputs</a>
             </li>
           <li>
               <a
@@ -938,6 +975,10 @@ MCU
         </a>
       </li>
       <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:font-medium hx:inline-block hx:rounded-sm hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:wrap-break-word hx:hextra-focus-visible-inset" href="#inputs">Inputs
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
         <a class="hx:font-medium hx:inline-block hx:rounded-sm hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:wrap-break-word hx:hextra-focus-visible-inset" href="#mcu">MCU
         </a>
       </li></ul>
@@ -1013,6 +1054,37 @@ MCU
           <td style="text-align: left">0.1uF</td>
           <td style="text-align: left">RP2040 3V3</td>
           <td style="text-align: left">Load</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">C9-10</td>
+          <td style="text-align: left">1uF</td>
+          <td style="text-align: left">RP2040 1V1</td>
+          <td style="text-align: left">Load</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">C11-13</td>
+          <td style="text-align: left">0.1uF</td>
+          <td style="text-align: left">RP2040 1V1</td>
+          <td style="text-align: left">Load</td>
+      </tr>
+  </tbody>
+</table>
+<h2>Inputs<span class="hx:absolute hx:-mt-20" id="inputs"></span>
+    <a href="#inputs" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Name</th>
+          <th style="text-align: left">Value</th>
+          <th style="text-align: left">Location</th>
+          <th style="text-align: left">Purpose</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">SW0</td>
+          <td style="text-align: left">Oval Button</td>
+          <td style="text-align: left">Flash</td>
+          <td style="text-align: left">BOOTSEL</td>
       </tr>
   </tbody>
 </table>

@@ -60,7 +60,11 @@
   </url><url>
     <loc>http://localhost:1313/hardware/rpedc/design/</loc>
   </url><url>
+    <loc>http://localhost:1313/donate/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/edu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/finance/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/flight-sim/</loc>
   </url><url>
