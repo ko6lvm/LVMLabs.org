@@ -13,7 +13,15 @@ draft: false
 ### Capacitors
 | Name | Value | Location | Purpose |
 | :---- | :---- | :---- | :---- |
-| C1 | 0.1uF | N/A | N/A |
+| C1-3 | 1uF | RP2040 3V3 | Load |
+| C4-8 | 0.1uF | RP2040 3V3 | Load |
+| C9-10 | 1uF | RP2040 1V1 | Load |
+| C11-13 | 0.1uF | RP2040 1V1 | Load |
+
+## Inputs
+| Name | Value | Location | Purpose |
+| :---- | :---- | :---- | :---- |
+| SW0 | Oval Button | Flash | BOOTSEL |
 
 ## MCU
 | Name | Model | Location | Purpose |

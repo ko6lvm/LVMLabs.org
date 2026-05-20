@@ -26,6 +26,12 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/archive/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/software/archives/art2launch/</loc>
+  </url><url>
     <loc>http://localhost:1313/software/ban/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/bans/</loc>
@@ -51,6 +57,8 @@
     <loc>http://localhost:1313/about/contributors/</loc>
   </url><url>
     <loc>http://localhost:1313/software/cordis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hardware/rpedc/design/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/edu/</loc>
   </url><url>

@@ -4,6 +4,8 @@ type: "docs"
 tags: ["ksf", "rules"]
 draft: false
 ---
+<!--more-->
+
 These Regulations govern your access to and use of the Website, Application, and Services (collectively, the “Services”) provided by Cordis, under KSF Cybersecurity Initative, under LVMLabs (“we,” “us,” or “our”). By using the Services associated, you agree to be bound by these Regulations.
 
 ## Legal

@@ -2,7 +2,7 @@
 title: "Updates"
 type: "docs"
 ---
-
+<!--more-->
 ## v4.9
 * AI Chatbot
 * /spinthewheel
