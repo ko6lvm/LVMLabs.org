@@ -6,7 +6,7 @@ layout: hextra-home
 ---
 
 {{< hextra/hero-badge >}}
-  <span>labs.ko6lvm.org</span>
+  <span>lvmlabs.org</span>
 {{< /hextra/hero-badge >}}
 
 <div class="hx:mt-4"></div>
