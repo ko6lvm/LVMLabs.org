@@ -50,6 +50,8 @@
   </url><url>
     <loc>http://localhost:1313/hardware/cmssound/</loc>
   </url><url>
+    <loc>http://localhost:1313/software/vm/</loc>
+  </url><url>
     <loc>http://localhost:1313/hardware/rpedc/components/</loc>
   </url><url>
     <loc>http://localhost:1313/hardware/cmssound/contact/</loc>
