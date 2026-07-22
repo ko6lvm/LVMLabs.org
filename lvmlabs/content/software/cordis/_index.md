@@ -13,12 +13,12 @@ Frontend-dependant web communications application.
 
 <div class="hx:mt-4"></div>
 
-{{< hextra/hero-badge >}}
-{{< icon "scale" >}} LVMLabs Confidential
+{{< hextra/hero-badge link="https://github.com/ko6lvm/cordis/blob/09b6cc269aef4cfb5f142182c711181bce5a4c98/LICENSE">}}
+{{< icon "scale" >}} Apache-2.0
 {{< /hextra/hero-badge >}}
 
-{{< hextra/hero-badge >}}
-{{< icon "warning" >}} Private Access
+{{< hextra/hero-badge link="regulations" >}}
+{{< icon "scale" >}} ToS
 {{< /hextra/hero-badge >}}
 
 {{< hextra/hero-badge >}}
@@ -28,14 +28,10 @@ Frontend-dependant web communications application.
 
 <div class="hx:mt-8"></div>
 
-{{< hextra/hero-button text="Regulations →" link="regulations" >}}
+{{< hextra/hero-button text="Try Cordis →" link="https://cordis.lvmlabs.org" >}}
 
 <div class="hx:mt-8"></div>
 
-{{< callout type="error" >}}
-  Cordis is currently down due to legal complications.
-{{< /callout >}}
-
 {{< callout type="info" >}}
-  Cordis is an invite-only closed source application.
+  Cordis is considered stable, however there may be bugs; please report them on the Github or Discord.
 {{< /callout >}}
