@@ -10,13 +10,21 @@ layout: hextra-home
 {{< /hextra/hero-badge >}}
 
 <div class="hx:mt-4"></div>
-
+<!-- 
 {{< hextra/hero-headline >}}
-LVMLabs
+LVMLabs - Multiple student developers.
+
+Designing. Deploying. Defending.
 {{< /hextra/hero-headline >}}
 
 <div class="hx:mt-4"></div>
 
 {{< hextra/hero-subtitle >}}
-See recent post for information
+See recent blog post.
 {{< /hextra/hero-subtitle >}}
+
+<div class="hx:mt-8"></div>
+
+{{< hextra/hero-button text="See our Hardware Projects →" link="hardware" >}}
+
+<div class="hx:mt-8"></div>
