@@ -8,30 +8,30 @@ module:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: Blog
-      pageRef: /blog
-      weight: 2
-    - name: Hardware
-      pageRef: /hardware
-      weight: 3
-    - name: Software
-      pageRef: /software
-      weight: 4
-    - name: About
-      pageRef: /about
-      weight: 5
-    - name: Search
-      weight: 6
-      params:
-        type: search
-    - name: GitHub
-      weight: 7
-      url: "https://github.com/ko6lvm/LVMLabs.org"
-      params:
-        icon: github
+    # - name: Docs
+    #   pageRef: /docs
+    #   weight: 1
+    # - name: Blog
+    #   pageRef: /blog
+    #   weight: 2
+    # - name: Hardware
+    #   pageRef: /hardware
+    #   weight: 3
+    # - name: Software
+    #   pageRef: /software
+    #   weight: 4
+    # - name: About
+    #   pageRef: /about
+    #   weight: 5
+    # - name: Search
+    #   weight: 6
+    #   params:
+    #     type: search
+    # - name: GitHub
+    #   weight: 7
+    #   url: "https://github.com/ko6lvm/LVMLabs.org"
+    #   params:
+    #     icon: github
     - name: Theme Toggle
       params:
         type: theme-toggle
